@@ -1,5 +1,4 @@
 # HelloApp
-My first React app, it's silly but still pretty neat. 
 
 Basically I created a super simple React application for practice that features three components that get housed into a single component:
 
